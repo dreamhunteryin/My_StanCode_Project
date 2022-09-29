@@ -6,10 +6,10 @@ The following are the official *[DEMO Video] (https://drive.google.com/drive/fol
 ## Project_sourse_code
 
 [Hangman_game]
-  * python sematics & syntax \
+  python sematics & syntax \
 [Boggle_game]
-  * recursion functions \
+  recursion functions \
 [Breakout_game]
-  *animation and game designing \
+  animation and game designing \
 [Name_popularity_searching_system]
-  *data structure \
+  data structure \
